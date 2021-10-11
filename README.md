@@ -24,6 +24,13 @@ Ikonki od lewej na toolbarze SULMN_ulatwienia:
 * **Pokaż węzełki geometrii dla wszystkich warstw** - ułatwia identyfikację wezełków w geometrii
 * **Oblicz pow graf dla poligonów we wskazanej warstwie** - do warstwy dodawana jest kolumn POW_GRAF a następnie obliczna jest pow graficzna w ha. Przy okazji program sprawdza wszystkie poligony czy są poprawne (GEOS) jeżeli nie dodaje nową warstwę tymczasową w której wskazuje które poligony wymagają uwagi użytkownika
 
+
+## Przykładowe okna opisów
+
+![Alt text](/opisy_TPU.png?raw_true)
+
+![Alt text](/opisy_ewid.png?raw_true)
+
 ## Obsługiwane formaty bazy taksatora:
 * MDB
 * sqlite
